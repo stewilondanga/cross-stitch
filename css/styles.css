@@ -24,10 +24,11 @@ button {
   bottom: 10px;
 }
 
-/*#controls {
+#controls {
   float: left;
 }
-#controls li {
+
+/*#controls li {
   list-style: none;
 }
 
