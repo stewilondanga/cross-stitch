@@ -18,13 +18,13 @@ html {
   height: 1.5em;
 }
 
-/*button {
+button {
   position: absolute;
   left: 160px;
   bottom: 10px;
 }
 
-#controls {
+/*#controls {
   float: left;
 }
 #controls li {
