@@ -47,12 +47,12 @@ button {
   cursor: pointer;
 }
 
-/*h1 {
+h1 {
   text-align: center;
   text-decoration: underline;
 }
 
-td {
+/*td {
   float: right;
   border: 1px solid #f7f7f7;
   color: #f2f2f2;
