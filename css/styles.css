@@ -32,7 +32,7 @@ button {
   list-style: none;
 }
 
-/*#container {
+#container {
   height: 400px;
   width: 350px;
   position: fixed;
@@ -42,7 +42,8 @@ button {
   left: 50%;
   transform: translate(-50%, -50%);
 }
-#container:hover {
+
+/*#container:hover {
   cursor: pointer;
 }
 
