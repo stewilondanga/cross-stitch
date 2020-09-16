@@ -63,11 +63,11 @@ td {
   font-size: 20px;
 }
 
-/*td:hover {
+td:hover {
   color: grey;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
