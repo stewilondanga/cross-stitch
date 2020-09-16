@@ -28,11 +28,11 @@ button {
   float: left;
 }
 
-/*#controls li {
+#controls li {
   list-style: none;
 }
 
-#container {
+/*#container {
   height: 400px;
   width: 350px;
   position: fixed;
