@@ -43,11 +43,11 @@ button {
   transform: translate(-50%, -50%);
 }
 
-/*#container:hover {
+#container:hover {
   cursor: pointer;
 }
 
-h1 {
+/*h1 {
   text-align: center;
   text-decoration: underline;
 }
